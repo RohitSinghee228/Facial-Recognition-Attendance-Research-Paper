@@ -1,15 +1,15 @@
 # Facial-Recognition-Attendance-Research-Paper
 Presenting a lightweight Face detection model for attendance systems in educational and professional organization
-Original Paper Link-![Research Paper](Facial%Recognition%attedance%research%Paper.pdf)
+Original Paper Link-(Facial%20Recognition%20attedance%20research%20Paper.pdf)
 
 # Workflow
 The diagram below defines the workflow of the project
-![workflow](Images\Workflow.png)
+![workflow](Images/Workflow.png)
 
 # Haar Cascade Implementation
 The Haar-Cascade algorithm (visual representation is shown in the image Fig.2 needs to be trained to detect human faces before the face detection.We have used a Haar cascade model for frontal face to detect faces which can be combined with other haar cascade model to increase accuracy of classifier.The frontal face model contains Haar features trained to detect faces .The features  are nothing but convolutional kernels.Each feature is a value obtained by subtracting pixels sum of black part from white.
 
-![HaarCascade](Images\Haar_Cascade_Implemetation.png)
+![HaarCascade](Images/Haar_Cascade_Implemetation.png)
 
 ## Trained Classifier used in our model:
 `haarcascade_frontalface_default`
@@ -38,12 +38,12 @@ with mathematics, i.e., distance between the points on a graph. In this algorith
 as the distance metric to perform the distance between two points on the graph.Thus in KNN the saved faces as numpy
 array values are compared to the new detected faces for matching.
 
-![Recognition Image](Images\Realtime_recognition_Visualization.png)
+![Recognition Image](Images/Realtime_recognition_Visualization.png)
 
 # Holistic Model Evaluation
 The Technical evaluation of our Facial Recognition indexing system parameters as compared to other popular systems being used for Identification.
-![Evaluation Image](Images\Holistic_evaluation.png)
+![Evaluation Image](Images/Holistic_evaluation.png)
 
 # Excel Sheets Ouput
 Excel Sheet generated for the administrator 
-![Excel Sheet Image](Images\Attendance_Excel_Sheet_Output.png)
+![Excel Sheet Image](Images/Attendance_Excel_Sheet_Output.png)
