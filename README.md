@@ -1,6 +1,6 @@
 # Facial-Recognition-Attendance-Research-Paper
 Presenting a lightweight Face detection model for attendance systems in educational and professional organization
-Original Paper Link-(Facial%20Recognition%20attedance%20research%20Paper.pdf)
+Original Paper Link-[Research Paper](Facial_Recognition_attedance_research_Paper.pdf)
 
 # Workflow
 The diagram below defines the workflow of the project
